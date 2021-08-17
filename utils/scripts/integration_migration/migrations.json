@@ -1,0 +1,2234 @@
+[
+    {
+        "PACK_NAME": ".NET",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ".NET"
+    },
+    {
+        "PACK_NAME": ".NET core",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ".NET"
+    },
+    {
+        "PACK_NAME": "AWS RDS",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS Lambda",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": ".NET MVC Web API",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ".NET"
+    },
+    {
+        "PACK_NAME": "Java",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "AWS ELB",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS Auto Scaling",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "NFS",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "NFS"
+    },
+    {
+        "PACK_NAME": "PHP",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": "PHP"
+    },
+    {
+        "PACK_NAME": "Redis",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": "Redis"
+    },
+    {
+        "PACK_NAME": "AWS NLB/ALB",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "Kubernetes",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Kubernetes"
+    },
+    {
+        "PACK_NAME": "Node.js",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Node.js"
+    },
+    {
+        "PACK_NAME": "AWS EBS",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS API Gateway",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS EFS",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS Billing",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS VPC",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "Elasticsearch",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": "Elasticsearch"
+    },
+    {
+        "PACK_NAME": "AWS IAM",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS Route 53",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "RabbitMQ",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "WordPress",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Golang",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Golang"
+    },
+    {
+        "PACK_NAME": "AWS SES",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "Oracle Database",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Oracle Database"
+    },
+    {
+        "PACK_NAME": "Python",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "React Native",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "MongoDB",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Azure VMs",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "F5",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Azure App Service",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "Azure SQL Database",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "IIS",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ".NET"
+    },
+    {
+        "PACK_NAME": "Azure API Management",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "AWS Cloudwatch plugin for Logs",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS CloudFront",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "Laravel",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "PHP"
+    },
+    {
+        "PACK_NAME": "Apache",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": "Apache"
+    },
+    {
+        "PACK_NAME": "AWS Glue",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "ASyncHTTPClient",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Linux",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Magento",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "PHP"
+    },
+    {
+        "PACK_NAME": "NGINX",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "PerfMon",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Rails",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "ruby"
+    },
+    {
+        "PACK_NAME": "Windows event log",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "AMQPlib",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "AWS AppSync",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS CloudTrail",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS Cognito",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "MSSQL",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "MSSQL"
+    },
+    {
+        "PACK_NAME": "MySQL",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": "MySQL"
+    },
+    {
+        "PACK_NAME": "AWS Elastic Beanstalk",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "Azure Virtual Network",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "Azure Storage",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "Postgres",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": "Postgres"
+    },
+    {
+        "PACK_NAME": "AWS DynamoDB",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS EC2",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS ECS/ECR",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "ASP .NET Web forms",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ".NET"
+    },
+    {
+        "PACK_NAME": "AWS Direct Connect",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "Google Compute Engine",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "GCP"
+    },
+    {
+        "PACK_NAME": "ASP .NET MVC",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ".NET"
+    },
+    {
+        "PACK_NAME": "AWS CloudFormation",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "JMX",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Google Cloud Storage",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "GCP"
+    },
+    {
+        "PACK_NAME": "Azure Virtual Machine Scale Sets",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "AWS MQ",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS RDS Enhanced",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "Azure Cost Management",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "Azure PostgreSQL",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "Azure Load Balancer",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "Google Cloud SQL",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "GCP"
+    },
+    {
+        "PACK_NAME": "AWS TransitGateway",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS FireLens plugin for Logs",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "Docker",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Memcached",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "AWS FSx",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "Azure Cosmos DB",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "Azure Functions",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "Google Load Balancing",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "GCP"
+    },
+    {
+        "PACK_NAME": "Apache Zookeeper",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Fluent Bit plugin for Logs",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Google Pub/Sub",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "GCP"
+    },
+    {
+        "PACK_NAME": "AWS Kinesis Data Streams",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "Google BigQuery",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "GCP"
+    },
+    {
+        "PACK_NAME": "Azure Service Bus",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "Azure Redis Cache",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "Azure SQL Managed Instances",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "Kafka",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "AWS Connect",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS EMR",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "MariaDB",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "MonoRail",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "dotnet"
+    },
+    {
+        "PACK_NAME": "Google Cloud Functions",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "GCP"
+    },
+    {
+        "PACK_NAME": "Azure VPN Gateways",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "Google Kubernetes Engine",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Kubernetes"
+    },
+    {
+        "PACK_NAME": "Azure Containers",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "AWS IoT",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS QLDB",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "Haproxy",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Akka",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "AWS VPC Flow Logs",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "Azure Power BI Dedicated capacities",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "C",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "EJB Session Beans",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Jayrock",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "ODBC",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "PHP"
+    },
+    {
+        "PACK_NAME": "Pagerduty",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Pagerduty"
+    },
+    {
+        "PACK_NAME": "Psycopg2",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "Azure Event Hubs",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "AWS Kinesis Data Firehose",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "Azure Logic Apps",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "Nagios",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Couchbase",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Authlogic",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "AWS ElastiCache",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS Health",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS S3",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "Chef",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Chef"
+    },
+    {
+        "PACK_NAME": "Drupal",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Episerver CMS",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ".NET"
+    },
+    {
+        "PACK_NAME": "Falcon",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "GCP Dataproc",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "GCP"
+    },
+    {
+        "PACK_NAME": "NServiceBus",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ".NET"
+    },
+    {
+        "PACK_NAME": "Passenger",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "Azure DataFactories",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "GCP Cloud Run",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "GCP"
+    },
+    {
+        "PACK_NAME": "GCP Firestore",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "GCP"
+    },
+    {
+        "PACK_NAME": "Google App Engine",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "GCP"
+    },
+    {
+        "PACK_NAME": "Adobe CQ",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Anorm",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "AWS Redshift",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS X-Ray",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "Bunny",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "CentOS",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Express",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Node.js"
+    },
+    {
+        "PACK_NAME": "Full Story",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Gearman",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "NATS",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Golang"
+    },
+    {
+        "PACK_NAME": "GCP Router",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "GCP"
+    },
+    {
+        "PACK_NAME": "Cassandra",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Varnish",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "GCP Datastore",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "GCP"
+    },
+    {
+        "PACK_NAME": "Azure Front Door",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "Azure MySQL",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "GCP VPC",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "GCP"
+    },
+    {
+        "PACK_NAME": "Azure Express Route",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "Android",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Ansible",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Apache HTTP client",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "AWS Elemental MediaPackage VOD",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "Azure Machine Learning Services",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "Blameless",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "ColdFusion",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Cordova",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Curb",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "Delayed_Job",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "Excon",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "Fluentd plugin for Logs",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "GCP Dedicated Interconnect",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "GCP"
+    },
+    {
+        "PACK_NAME": "GCP Firebase Storage",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "GCP"
+    },
+    {
+        "PACK_NAME": "Glassfish",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "HttpClient",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "Inet Oracle Driver (oranxo)",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Oracle"
+    },
+    {
+        "PACK_NAME": "Informix",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Istio",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Logrus",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Golang"
+    },
+    {
+        "PACK_NAME": "Micrometer",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "MSMQ",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ".NET"
+    },
+    {
+        "PACK_NAME": "OC4J",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "OpenTelemetry",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "OurSQL",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "Padrino",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "Pivotal Tracker",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Play WS",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Prometheus",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "PyElasticSearch",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "Quantum Metric",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Quartz Job Scheduler",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "AWS NeptuneDB",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "GCP Firebase Hosting",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "GCP"
+    },
+    {
+        "PACK_NAME": "AWS WAF",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "VMware ESXi",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "VMWare"
+    },
+    {
+        "PACK_NAME": "Acts_as_solr",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "Amazon DocumentDB",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "Amazon Linux",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "Amazon MSK",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS Outposts",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS Route53 Resolver",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS SNS",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS Step Functions",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS Trusted Advisor",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "CakePHP",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "PHP"
+    },
+    {
+        "PACK_NAME": "CodeIgniter",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "PHP"
+    },
+    {
+        "PACK_NAME": "Collectd",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "CXF",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Dalli",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "Datastax Cassandra",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Debian",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Derby",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Dropwizard",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Dropwizard Metrics Reporter",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "FubuMVC",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ".NET"
+    },
+    {
+        "PACK_NAME": "GCP Dataflow",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "GCP"
+    },
+    {
+        "PACK_NAME": "Generic JDBC",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Hibernate",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "HSQL",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "HTTPRouter",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Golang"
+    },
+    {
+        "PACK_NAME": "IBM DB2",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "JSF",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Kubernetes plugin for Logs",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Kubernetes"
+    },
+    {
+        "PACK_NAME": "Lacework",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Lambda-go (aws-lambda-go)",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Golang"
+    },
+    {
+        "PACK_NAME": "LaunchDarkly",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Logxi",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Golang"
+    },
+    {
+        "PACK_NAME": "Mule ESB",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Mux",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Golang"
+    },
+    {
+        "PACK_NAME": "NancyFX",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ".NET"
+    },
+    {
+        "PACK_NAME": "Netty",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "OKHTTP",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "PDO",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "PHP"
+    },
+    {
+        "PACK_NAME": "PHPunit",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "PHP"
+    },
+    {
+        "PACK_NAME": "Proboscis",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "Google Cloud Spanner",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "GCP"
+    },
+    {
+        "PACK_NAME": "ActiveRecord",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "AIOHTTP",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "Amazon Athena",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS Elasticsearch",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "AWS SQS",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "Azure MariaDB",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Azure"
+    },
+    {
+        "PACK_NAME": "bottle",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "C++",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "celery",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "cherrypy",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "CloudAMQP",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "CloudFoundry",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Consul",
+        "NEW_DEFINITION": "FALSE",
+        "AUGMENT_DEFINITION": "TRUE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "CSLA .NET",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ".NET"
+    },
+    {
+        "PACK_NAME": "django",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "DNN Community",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ".NET"
+    },
+    {
+        "PACK_NAME": "DNN Evoq",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ".NET"
+    },
+    {
+        "PACK_NAME": "dropbox",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "Echo",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Golang"
+    },
+    {
+        "PACK_NAME": "facepy",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "feedparser",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "flask",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "GCP Firebase Database",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "GCP"
+    },
+    {
+        "PACK_NAME": "gevent",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "Gin",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Golang"
+    },
+    {
+        "PACK_NAME": "Go Insights",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Golang"
+    },
+    {
+        "PACK_NAME": "Grails",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Grape",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "gRPC",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Guzzle",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "PHP"
+    },
+    {
+        "PACK_NAME": "H2",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Hapi",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Node.js"
+    },
+    {
+        "PACK_NAME": "httplib2",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "HttpRb",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "Hystrix",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Inet Merlia",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "iOS",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "JAX-RS",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "JCache API",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Jersey",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Jetty",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "jinja2",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "JMS",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Joomla",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "PHP"
+    },
+    {
+        "PACK_NAME": "JSP",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Kamon",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Koa",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Node.js"
+    },
+    {
+        "PACK_NAME": "Kohana",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "PHP"
+    },
+    {
+        "PACK_NAME": "Lighthouse",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Logstash plugin for Logs",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "mako",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "MediaWiki",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "PHP"
+    },
+    {
+        "PACK_NAME": "Micro",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Golang"
+    },
+    {
+        "PACK_NAME": "Net::HTTP",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "New Relic Micrometer Registry",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "OpenCensus",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "OpenRasta",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ".NET"
+    },
+    {
+        "PACK_NAME": "OpenTelemetry Java Exporter",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Pika",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "piston",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "Pkg/Errors",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Golang"
+    },
+    {
+        "PACK_NAME": "Play",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Port monitoring",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Predis",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "PHP"
+    },
+    {
+        "PACK_NAME": "Puma",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "Puppet",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "pylibmc",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "pylons",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "PyMongo",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "pyramid",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "PySQLite",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "pywapi",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "Rack",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "Rainbows!",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "Rake",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "Red Hat Enterprise Linux",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Redhat"
+    },
+    {
+        "PACK_NAME": "Red Hat OpenShift",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Redhat"
+    },
+    {
+        "PACK_NAME": "Resin",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Resque",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "RESTeasy",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Restify",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Node.js"
+    },
+    {
+        "PACK_NAME": "RestSharp",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ".NET"
+    },
+    {
+        "PACK_NAME": "Roku",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Ruby",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "Sanic",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "Scala",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Sequel",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "ServiceStack",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ".NET"
+    },
+    {
+        "PACK_NAME": "Sidekiq",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "SIGNL4",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Silex",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "PHP"
+    },
+    {
+        "PACK_NAME": "Silverlight",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ".NET"
+    },
+    {
+        "PACK_NAME": "Sinatra",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "Slack",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Slick",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Slim",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "PHP"
+    },
+    {
+        "PACK_NAME": "SNMP",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Solr",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Split",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Spray-can",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Spring",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Spring-JMS",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Spring.net",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ".NET"
+    },
+    {
+        "PACK_NAME": "SpyMemcached",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "SQLite",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "PHP"
+    },
+    {
+        "PACK_NAME": "StatsD",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Struts",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Sunspot",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "SUSE Linux Enterprise Server",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Sybase",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Symfony",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "PHP"
+    },
+    {
+        "PACK_NAME": "tastypie",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "Thin",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "Thrift",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Tomcat",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "TomEE",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "tornado",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "tvOS",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "twisted",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "Typhoeus",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "Ubuntu",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Umbraco",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ".NET"
+    },
+    {
+        "PACK_NAME": "Unicorn",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "Unix",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "urllib",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "urllib2",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "urllib3",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "Vert.x",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "VictorOps",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "VMWare Tanzu",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "VMWare"
+    },
+    {
+        "PACK_NAME": "web2py",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "WebLogic",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "webpy",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Python"
+    },
+    {
+        "PACK_NAME": "Webrick",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Ruby"
+    },
+    {
+        "PACK_NAME": "WebSphere",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "Websphere Liberty Profile",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "WildFly",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Java"
+    },
+    {
+        "PACK_NAME": "xMatters",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Yii",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "PHP"
+    },
+    {
+        "PACK_NAME": "Zap",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Golang"
+    },
+    {
+        "PACK_NAME": "Zipkin",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": ""
+    },
+    {
+        "PACK_NAME": "Amazon EKS on AWS Fargate",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+        {
+        "PACK_NAME": "Amazon CloudWatch Metric Streams",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "AWS"
+    },
+    {
+        "PACK_NAME": "Oracle",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Oracle"
+    },
+    {
+        "PACK_NAME": "OracleDB",
+        "NEW_DEFINITION": "TRUE",
+        "AUGMENT_DEFINITION": "FALSE",
+        "PARENT_DIRECTORY": "Oracle"
+    }
+]

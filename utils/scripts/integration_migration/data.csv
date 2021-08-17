@@ -1,0 +1,369 @@
+PACK_NAME,NEW_DEFINITION,AUGMENT_DEFINITION,PARENT_DIRECTORY
+.NET,TRUE,FALSE,.NET
+.NET core,TRUE,FALSE,.NET
+AWS RDS,TRUE,FALSE,AWS
+AWS Lambda,TRUE,FALSE,AWS
+.NET MVC Web API,TRUE,FALSE,.NET
+Java,TRUE,FALSE,Java
+AWS ELB,TRUE,FALSE,AWS
+AWS Auto Scaling,TRUE,FALSE,AWS
+NFS,TRUE,FALSE,NFS
+PHP,FALSE,TRUE,PHP
+Redis,FALSE,TRUE,Redis
+AWS NLB/ALB,TRUE,FALSE,AWS
+Kubernetes,TRUE,FALSE,Kubernetes
+Node.js,TRUE,FALSE,Node.js
+AWS EBS,TRUE,FALSE,AWS
+AWS API Gateway,TRUE,FALSE,AWS
+AWS EFS,TRUE,FALSE,AWS
+AWS Billing,TRUE,FALSE,AWS
+AWS VPC,TRUE,FALSE,AWS
+Elasticsearch,FALSE,TRUE,Elasticsearch
+AWS IAM,TRUE,FALSE,AWS
+AWS Route 53,TRUE,FALSE,AWS
+RabbitMQ,FALSE,TRUE,
+WordPress,TRUE,FALSE,
+Golang,TRUE,FALSE,Golang
+AWS SES,TRUE,FALSE,AWS
+Oracle Database,TRUE,FALSE,Oracle Database
+Python,TRUE,FALSE,Python
+React Native,TRUE,FALSE,
+MongoDB,FALSE,TRUE,
+Azure VMs,TRUE,FALSE,Azure
+F5,TRUE,FALSE,
+Azure App Service,TRUE,FALSE,Azure
+Azure SQL Database,TRUE,FALSE,Azure
+IIS,TRUE,FALSE,.NET
+Azure API Management,TRUE,FALSE,Azure
+AWS Cloudwatch plugin for Logs,FALSE,TRUE,AWS
+AWS CloudFront,TRUE,FALSE,AWS
+Laravel,TRUE,FALSE,PHP
+Apache,FALSE,TRUE,Apache
+AWS Glue,TRUE,FALSE,AWS
+ASyncHTTPClient,TRUE,FALSE,Java
+Linux,TRUE,FALSE,
+Magento,TRUE,FALSE,PHP
+NGINX,TRUE,FALSE,
+PerfMon,TRUE,FALSE,
+Rails,TRUE,FALSE,
+Windows event log,TRUE,FALSE,
+AMQPlib,TRUE,FALSE,Python
+AWS AppSync,TRUE,FALSE,AWS
+AWS CloudTrail,TRUE,FALSE,AWS
+AWS Cognito,TRUE,FALSE,AWS
+MSSQL,TRUE,FALSE,MSSQL
+MySQL,FALSE,TRUE,MySQL
+AWS Elastic Beanstalk,TRUE,FALSE,AWS
+Azure Virtual Network,TRUE,FALSE,Azure
+Azure Storage,TRUE,FALSE,Azure
+Postgres,FALSE,TRUE,Postgres
+AWS DynamoDB,TRUE,FALSE,AWS
+AWS EC2,TRUE,TRUE,AWS
+AWS ECS/ECR,TRUE,FALSE,AWS
+ASP .NET Web forms,TRUE,FALSE,.NET
+AWS Direct Connect,TRUE,FALSE,AWS
+Google Compute Engine,TRUE,FALSE,GCP
+ASP .NET MVC,TRUE,FALSE,.NET
+AWS CloudFormation,TRUE,FALSE,AWS
+JMX,FALSE,TRUE,
+Google Cloud Storage,TRUE,FALSE,GCP
+Azure Virtual Machine Scale Sets,TRUE,FALSE,Azure
+AWS MQ,TRUE,FALSE,AWS
+AWS RDS Enhanced,TRUE,FALSE,AWS
+Azure Cost Management,TRUE,FALSE,Azure
+Azure PostgreSQL,TRUE,FALSE,Azure
+Azure Load Balancer,TRUE,FALSE,Azure
+Google Cloud SQL,TRUE,FALSE,GCP
+AWS TransitGateway,TRUE,FALSE,AWS
+AWS FireLens plugin for Logs,TRUE,FALSE,AWS
+Docker,TRUE,FALSE,
+Memcached,FALSE,TRUE,
+AWS FSx,TRUE,FALSE,AWS
+Azure Cosmos DB,TRUE,FALSE,Azure
+Azure Functions,TRUE,FALSE,Azure
+Google Load Balancing,TRUE,FALSE,GCP
+Apache Zookeeper,FALSE,TRUE,
+Fluent Bit plugin for Logs,TRUE,FALSE,
+Google Pub/Sub,TRUE,FALSE,GCP
+AWS Kinesis Data Streams,TRUE,FALSE,AWS
+Google BigQuery,TRUE,FALSE,GCP
+Azure Service Bus,TRUE,FALSE,Azure
+Azure Redis Cache,TRUE,FALSE,Azure
+Azure SQL Managed Instances,TRUE,FALSE,Azure
+Kafka,TRUE,FALSE,
+AWS Connect,TRUE,FALSE,AWS
+AWS EMR,TRUE,FALSE,AWS
+MariaDB,TRUE,FALSE,
+MonoRail,TRUE,FALSE,
+Google Cloud Functions,TRUE,FALSE,GCP
+Azure VPN Gateways,TRUE,FALSE,Azure
+Google Kubernetes Engine,TRUE,FALSE,Kubernetes
+Azure Containers,TRUE,FALSE,Azure
+AWS IoT,TRUE,FALSE,AWS
+AWS QLDB,TRUE,FALSE,AWS
+Haproxy,FALSE,TRUE,
+Akka,TRUE,FALSE,Java
+AWS VPC Flow Logs,TRUE,FALSE,AWS
+Azure Power BI Dedicated capacities,TRUE,FALSE,Azure
+C,TRUE,FALSE,
+EJB Session Beans,TRUE,FALSE,
+Jayrock,TRUE,FALSE,Java
+ODBC,TRUE,FALSE,PHP
+Pagerduty,TRUE,FALSE,Pagerduty
+Psycopg2,TRUE,FALSE,Python
+Azure Event Hubs,TRUE,FALSE,Azure
+AWS Kinesis Data Firehose,TRUE,FALSE,AWS
+Azure Logic Apps,TRUE,FALSE,Azure
+Nagios,FALSE,TRUE,
+Couchbase,FALSE,TRUE,
+Authlogic,TRUE,FALSE,Ruby
+AWS ElastiCache,TRUE,FALSE,AWS
+AWS Health,TRUE,FALSE,AWS
+AWS S3,TRUE,FALSE,AWS
+Chef,TRUE,FALSE,Chef
+Drupal,TRUE,FALSE,
+Episerver CMS,TRUE,FALSE,.NET
+Falcon,TRUE,FALSE,Python
+GCP Dataproc,TRUE,FALSE,GCP
+NServiceBus,TRUE,FALSE,.NET
+Passenger,TRUE,FALSE,Ruby
+Azure DataFactories,TRUE,FALSE,Azure
+GCP Cloud Run,TRUE,FALSE,GCP
+GCP Firestore,TRUE,FALSE,GCP
+Google App Engine,TRUE,FALSE,GCP
+Adobe CQ,TRUE,FALSE,Java
+Anorm,TRUE,FALSE,Java
+AWS Redshift,TRUE,FALSE,AWS
+AWS X-Ray,TRUE,FALSE,AWS
+Bunny,TRUE,FALSE,Ruby
+CentOS,TRUE,FALSE,
+Express,TRUE,FALSE,Node.js
+Full Story,TRUE,FALSE,
+Gearman,TRUE,FALSE,Python
+NATS,TRUE,FALSE,Golang
+GCP Router,TRUE,FALSE,GCP
+Cassandra,FALSE,TRUE,
+Varnish,TRUE,FALSE,
+GCP Datastore,TRUE,FALSE,GCP
+Azure Front Door,TRUE,FALSE,Azure
+Azure MySQL,TRUE,FALSE,Azure
+GCP VPC,TRUE,FALSE,GCP
+Azure Express Route,TRUE,FALSE,Azure
+Android,TRUE,FALSE,
+Ansible,TRUE,FALSE,
+Apache HTTP client,FALSE,TRUE,
+AWS Elemental MediaPackage VOD,TRUE,FALSE,AWS
+Azure Machine Learning Services,TRUE,FALSE,Azure
+Blameless,TRUE,FALSE,
+ColdFusion,TRUE,FALSE,Java
+Cordova,TRUE,FALSE,
+Curb,TRUE,FALSE,Ruby
+Delayed_Job,TRUE,FALSE,Ruby
+Excon,TRUE,FALSE,Ruby
+Fluentd plugin for Logs,TRUE,FALSE,
+GCP Dedicated Interconnect,TRUE,FALSE,GCP
+GCP Firebase Storage,TRUE,FALSE,GCP
+Glassfish,TRUE,FALSE,Java
+HttpClient,TRUE,FALSE,Ruby
+Inet Oracle Driver (oranxo),TRUE,FALSE,Oracle
+Informix,TRUE,FALSE,
+Istio,TRUE,FALSE,
+Logrus,TRUE,FALSE,Golang
+Micrometer,TRUE,FALSE,
+MSMQ,TRUE,FALSE,.NET
+OC4J,TRUE,FALSE,Java
+OpenTelemetry,TRUE,FALSE,
+OurSQL,TRUE,FALSE,Python
+Padrino,TRUE,FALSE,Ruby
+Pivotal Tracker,TRUE,FALSE,
+Play WS,TRUE,FALSE,Java
+Prometheus,TRUE,FALSE,
+PyElasticSearch,TRUE,FALSE,Python
+Quantum Metric,TRUE,FALSE,
+Quartz Job Scheduler,TRUE,FALSE,Java
+AWS NeptuneDB,TRUE,FALSE,AWS
+GCP Firebase Hosting,TRUE,FALSE,GCP
+AWS WAF,TRUE,FALSE,AWS
+VMware ESXi,TRUE,FALSE,VMWare
+Acts_as_solr,TRUE,FALSE,Ruby
+Amazon DocumentDB,TRUE,FALSE,AWS
+Amazon Linux,TRUE,FALSE,AWS
+Amazon MSK,TRUE,FALSE,AWS
+AWS Outposts,TRUE,FALSE,AWS
+AWS Route53 Resolver,TRUE,FALSE,AWS
+AWS SNS,TRUE,FALSE,AWS
+AWS Step Functions,TRUE,FALSE,AWS
+AWS Trusted Advisor,TRUE,FALSE,AWS
+CakePHP,TRUE,FALSE,PHP
+CodeIgniter,TRUE,FALSE,PHP
+Collectd,TRUE,FALSE,
+CXF,TRUE,FALSE,Java
+Dalli,TRUE,FALSE,Ruby
+Datastax Cassandra,TRUE,FALSE,
+Debian,TRUE,FALSE,
+Derby,TRUE,FALSE,Java
+Dropwizard,TRUE,FALSE,
+Dropwizard Metrics Reporter,TRUE,FALSE,
+FubuMVC,TRUE,FALSE,.NET
+GCP Dataflow,TRUE,FALSE,GCP
+Generic JDBC,TRUE,FALSE,Java
+Hibernate,TRUE,FALSE,Java
+HSQL,TRUE,FALSE,Java
+HTTPRouter,TRUE,FALSE,Golang
+IBM DB2,TRUE,FALSE,Java
+JSF,TRUE,FALSE,Java
+Kubernetes plugin for Logs,TRUE,FALSE,Kubernetes
+Lacework,TRUE,FALSE,
+Lambda-go (aws-lambda-go),TRUE,FALSE,Golang
+LaunchDarkly,TRUE,FALSE,
+Logxi,TRUE,FALSE,Golang
+Mule ESB,TRUE,FALSE,Java
+Mux,TRUE,FALSE,Golang
+NancyFX,TRUE,FALSE,.NET
+Netty,TRUE,FALSE,Java
+OKHTTP,TRUE,FALSE,
+PDO,TRUE,FALSE,PHP
+PHPunit,TRUE,FALSE,PHP
+Proboscis,TRUE,FALSE,Python
+Google Cloud Spanner,TRUE,FALSE,GCP
+ActiveRecord,TRUE,FALSE,Ruby
+AIOHTTP,TRUE,FALSE,Python
+Amazon Athena,TRUE,FALSE,AWS
+AWS Elasticsearch,TRUE,FALSE,AWS
+AWS SQS,TRUE,FALSE,AWS
+Azure MariaDB,TRUE,FALSE,Azure
+bottle,TRUE,FALSE,Python
+C++,TRUE,FALSE,
+celery,TRUE,FALSE,Python
+cherrypy,TRUE,FALSE,Python
+CloudAMQP,TRUE,FALSE,
+CloudFoundry,TRUE,FALSE,
+Consul,TRUE,FALSE,
+CSLA .NET,TRUE,FALSE,.NET
+django,TRUE,FALSE,Python
+DNN Community,TRUE,FALSE,.NET
+DNN Evoq,TRUE,FALSE,.NET
+dropbox,TRUE,FALSE,Python
+Echo,TRUE,FALSE,Golang
+facepy,TRUE,FALSE,Python
+feedparser,TRUE,FALSE,Python
+flask,TRUE,FALSE,Python
+GCP Firebase Database,TRUE,FALSE,GCP
+gevent,TRUE,FALSE,Python
+Gin,TRUE,FALSE,Golang
+Go Insights,TRUE,FALSE,Golang
+Grails,TRUE,FALSE,Java
+Grape,TRUE,FALSE,Ruby
+gRPC,TRUE,FALSE,Java
+Guzzle,TRUE,FALSE,PHP
+H2,TRUE,FALSE,Java
+Hapi,TRUE,FALSE,Node.js
+httplib2,TRUE,FALSE,Python
+HttpRb,TRUE,FALSE,Ruby
+Hystrix,TRUE,FALSE,Java
+Inet Merlia,TRUE,FALSE,Java
+iOS,TRUE,FALSE,
+JAX-RS,TRUE,FALSE,Java
+JCache API,TRUE,FALSE,Java
+Jersey,TRUE,FALSE,Java
+Jetty,TRUE,FALSE,Java
+jinja2,TRUE,FALSE,Python
+JMS,TRUE,FALSE,Java
+Joomla,TRUE,FALSE,PHP
+JSP,TRUE,FALSE,Java
+Kamon,TRUE,FALSE,
+Koa,TRUE,FALSE,Node.js
+Kohana,TRUE,FALSE,PHP
+Lighthouse,TRUE,FALSE,
+Logstash plugin for Logs,TRUE,FALSE,
+mako,TRUE,FALSE,Python
+MediaWiki,TRUE,FALSE,PHP
+Micro,TRUE,FALSE,Golang
+Net::HTTP,TRUE,FALSE,Ruby
+New Relic Micrometer Registry,TRUE,FALSE,
+OpenCensus,TRUE,FALSE,
+OpenRasta,TRUE,FALSE,.NET
+OpenTelemetry Java Exporter,TRUE,FALSE,Java
+Pika,TRUE,FALSE,Python
+piston,TRUE,FALSE,Python
+Pkg/Errors,TRUE,FALSE,
+Play,TRUE,FALSE,Java
+Port monitoring,TRUE,FALSE,
+Predis,TRUE,FALSE,PHP
+Puma,TRUE,FALSE,Ruby
+Puppet,TRUE,FALSE,
+pylibmc,TRUE,FALSE,Python
+pylons,TRUE,FALSE,Python
+PyMongo,TRUE,FALSE,Python
+pyramid,TRUE,FALSE,Python
+PySQLite,TRUE,FALSE,Python
+pywapi,TRUE,FALSE,Python
+Rack,TRUE,FALSE,Ruby
+Rainbows!,TRUE,FALSE,Ruby
+Rake,TRUE,FALSE,Ruby
+Red Hat Enterprise Linux,TRUE,FALSE,Redhat
+Red Hat OpenShift,TRUE,FALSE,Redhat
+Resin,TRUE,FALSE,Java
+Resque,TRUE,FALSE,Ruby
+RESTeasy,TRUE,FALSE,Java
+Restify,TRUE,FALSE,Node.js
+RestSharp,TRUE,FALSE,.NET
+Roku,TRUE,FALSE,
+Ruby,TRUE,FALSE,Ruby
+Sanic,TRUE,FALSE,Python
+Scala,TRUE,FALSE,Java
+Sequel,TRUE,FALSE,Ruby
+ServiceStack,TRUE,FALSE,.NET
+Sidekiq,TRUE,FALSE,Ruby
+SIGNL4,TRUE,FALSE,
+Silex,TRUE,FALSE,PHP
+Silverlight,TRUE,FALSE,.NET
+Sinatra,TRUE,FALSE,Ruby
+Slack,TRUE,FALSE,
+Slick,TRUE,FALSE,Java
+Slim,TRUE,FALSE,PHP
+SNMP,TRUE,FALSE,
+Solr,TRUE,FALSE,Java
+Split,TRUE,FALSE,
+Spray-can,TRUE,FALSE,Java
+Spring,TRUE,FALSE,Java
+Spring-JMS,TRUE,FALSE,Java
+Spring.net,TRUE,FALSE,.NET
+SpyMemcached,TRUE,FALSE,Java
+SQLite,TRUE,FALSE,PHP
+StatsD,TRUE,FALSE,
+Struts,TRUE,FALSE,Java
+Sunspot,TRUE,FALSE,Ruby
+SUSE Linux Enterprise Server,TRUE,FALSE,
+Sybase,TRUE,FALSE,
+Symfony,TRUE,FALSE,PHP
+tastypie,TRUE,FALSE,Python
+Thin,TRUE,FALSE,Ruby
+Thrift,TRUE,FALSE,Java
+Tomcat,TRUE,FALSE,Java
+TomEE,TRUE,FALSE,Java
+tornado,TRUE,FALSE,Python
+tvOS,TRUE,FALSE,
+twisted,TRUE,FALSE,Python
+Typhoeus,TRUE,FALSE,Ruby
+Ubuntu,TRUE,FALSE,
+Umbraco,TRUE,FALSE,.NET
+Unicorn,TRUE,FALSE,Ruby
+Unix,TRUE,FALSE,
+urllib,TRUE,FALSE,Python
+urllib2,TRUE,FALSE,Python
+urllib3,TRUE,FALSE,Python
+Vert.x,TRUE,FALSE,Java
+VictorOps,TRUE,FALSE,
+VMWare Tanzu,TRUE,FALSE,VMWare
+web2py,TRUE,FALSE,Python
+WebLogic,TRUE,FALSE,Java
+webpy,TRUE,FALSE,Python
+Webrick,TRUE,FALSE,Ruby
+WebSphere,TRUE,FALSE,Java
+Websphere Liberty Profile,TRUE,FALSE,Java
+WildFly,TRUE,FALSE,Java
+xMatters,TRUE,FALSE,
+Yii,TRUE,FALSE,PHP
+Zap,TRUE,FALSE,Golang
+Zipkin,TRUE,FALSE,
